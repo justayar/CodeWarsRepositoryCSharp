@@ -10,3 +10,5 @@ You can see the instructions of the problems with following links:
   * GetTheMiddleCharacter --> https://www.codewars.com/kata/56747fd5cb988479af000028
   
   * StringMerger --> https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa
+  
+  * VowelsShift --> https://www.codewars.com/kata/577e277c9fb2a5511c00001d
