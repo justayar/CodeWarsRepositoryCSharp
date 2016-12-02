@@ -21,7 +21,7 @@ namespace IsMyFriendCheating
             List<long[]> lst = new List<long[]>();
 
            
-            for (long i = n/2*(n-1); i < n; i++)
+            for (long i = n/2*(n-1)/(n+1); i < n; i++)
             {
 
 
