@@ -12,3 +12,5 @@ You can see the instructions of the problems with following links:
   * StringMerger --> https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa
   
   * VowelsShift --> https://www.codewars.com/kata/577e277c9fb2a5511c00001d
+
+  * ClockInMirror --> https://www.codewars.com/kata/56548dad6dae7b8756000037
