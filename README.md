@@ -16,3 +16,5 @@ You can see the instructions of the problems with following links:
   * ClockInMirror --> https://www.codewars.com/kata/56548dad6dae7b8756000037
   
   * IsMyFriendCheating --> https://www.codewars.com/kata/is-my-friend-cheating
+  
+  * StatiscticForAthleticAssociation --> https://www.codewars.com/kata/55b3425df71c1201a800009c/
