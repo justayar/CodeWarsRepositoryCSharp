@@ -17,4 +17,6 @@ You can see the instructions of the problems with following links:
   
   * IsMyFriendCheating --> https://www.codewars.com/kata/is-my-friend-cheating
   
-  * StatisticsForAthleticAssociation --> https://www.codewars.com/kata/55b3425df71c1201a800009c/
+  * StatisticsForAthleticAssociation --> https://www.codewars.com/kata/55b3425df71c1201a800009c
+  
+  * WeightSort --> https://www.codewars.com/kata/55c6126177c9441a570000cc/
